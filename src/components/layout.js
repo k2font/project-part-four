@@ -1,6 +1,5 @@
-/** @jsx jsx */
 import React from "react"
-import { css, jsx } from "@emotion/core"
+import { css } from "@emotion/core"
 import { Link, useStaticQuery, graphql } from "gatsby"
 
 import { rhythm } from "../utils/typography.js"
